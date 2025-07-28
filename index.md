@@ -1,4 +1,4 @@
-# Atlanta Regional Insights
+# Recent Posts and Articles Covering Atlanta Transportation News and Trends
 
 This page compiles a series of data dashboards and analytical writeups developed or hosted by the Atlanta Regional Commission's 33°N platform. These interactive tools explore key themes in transportation, housing, population trends, and regional planning.
 
