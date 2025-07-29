@@ -17,31 +17,41 @@ A spatial analysis of residential permitting trends in relation to MARTA rail in
 ---
 
 ## 🗣️ Thoughts on Transportation  
-Results from the "Metro Atlanta Speaks" regional survey, summarizing public opinion on transportation priorities, satisfaction, and infrastructure investment.  
+Results from the "Metro Atlanta Speaks" regional survey, summarizing public opinion on transportation priorities, satisfaction, and investment.  
 🔗 [View survey results](https://33n.atlantaregional.com/metro-atlanta-speaks/thoughts-on-transportation)
 
 ---
 
 ## 🚦 Traffic Congestion: Clearing or Continuing?  
-A deep dive into traffic congestion trends before, during, and after the COVID-19 pandemic, drawing from INRIX traffic analytics and regional data.  
+A deep dive into congestion trends before, during, and after the COVID-19 pandemic. 
 🔗 [View the story](https://33n.atlantaregional.com/data-diversions/traffic-congestion-clearing-or-continuing)
 
 ---
 
 ## 📊 Tableau Dashboard – Traffic Patterns  
-An interactive Tableau visualization exploring traffic volumes and congestion metrics in Metro Atlanta.  
+An interactive Tableau visualization showing traffic volumes and congestion metrics in Metro Atlanta.  
 🔗 [Open the dashboard](https://public.tableau.com/app/profile/bill.huang5002/viz/shared/GJCRM74DR)
 
 ---
 
 ## 👥 Population Snapshot: 2024  
-The latest population estimates for the Atlanta region, showing continued growth but at a slower rate. Includes maps, trends, and historical comparisons.  
+The latest population estimates for the Atlanta region, showing signs of slowing growth.
 🔗 [Read the snapshot](https://33n.atlantaregional.com/population/regional-snapshot-2024-population-estimates-slowing-but-growing)
 
 ---
 
 ## 🕒 Time Trends in Workplace & Work Access  
-An article exploring how remote work, commuting habits, and job access have evolved across the Atlanta metro since 2019.  
+An article exploring how remote work and commuting have evolved across the Atlanta metro since 2019.  
 🔗 [Explore the trends](https://33n.atlantaregional.com/data-diversions/time-trends-in-workplace-and-work-access-atlanta-msa)
 
 ---
+
+## 🚫🚗 Young and Car-Free in Atlanta
+[Read the full article →](https://www.ajc.com/news/young-and-car-free-social-sharing-of-alternatives-to-atlanta-gridlock/ZKQNEPFCLVD6PJBP3CZ564IWMY/)
+AJC article highlighting young Atlantans who are embracing car-free lifestyles.
+
+---
+
+## 🚲 ARC Pedal Pushers
+[Read the full article →](https://atlantaregional.org/news/transportation-mobility/arc-pedal-pushers/)
+Profiles of ARC employees who bike-commute to work. Includes biking statistics from April 2025 during the "Million Air Challenge".
