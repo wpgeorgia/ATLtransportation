@@ -5,13 +5,6 @@ An interactive dashboard exploring where people live and work across Metro Atlan
 
 ---
 
-## 🏘️ If You Build It, They Will Come  
-A spatial analysis of residential permitting trends in relation to MARTA rail infrastructure. Highlights how zoning and proximity to transit impact development.
-
-🔗 [Read the analysis](https://33n.atlantaregional.com/housing/if-you-build-it-they-will-come)
-
----
-
 ## 🗣️ Thoughts on Transportation  
 Results from the "Metro Atlanta Speaks" regional survey, summarizing public opinion on transportation priorities, satisfaction, and investment.
 
@@ -32,11 +25,6 @@ An interactive Tableau visualization showing traffic volumes and congestion metr
 🔗 [Open the dashboard](https://public.tableau.com/app/profile/bill.huang5002/viz/shared/GJCRM74DR)
 
 ---
-
-## 👥 Population Snapshot: 2024  
-The latest population estimates for the Atlanta region, showing signs of slowing growth.
-
-🔗 [Read the snapshot](https://33n.atlantaregional.com/population/regional-snapshot-2024-population-estimates-slowing-but-growing)
 
 ---
 
@@ -59,3 +47,18 @@ Profiles of ARC employees who bike-commute to work. Includes biking statistics f
 
 🔗 [Read the full article →](https://atlantaregional.org/news/transportation-mobility/arc-pedal-pushers/)
 
+---
+
+## 👥 Population Snapshot: 2024  
+The latest population estimates for the Atlanta region, showing signs of slowing growth.
+
+🔗 [Read the snapshot](https://33n.atlantaregional.com/population/regional-snapshot-2024-population-estimates-slowing-but-growing)
+
+---
+
+## 🏘️ If You Build It, They Will Come  
+A spatial analysis of residential permitting trends in relation to MARTA rail infrastructure. Highlights how zoning and proximity to transit impact development.
+
+🔗 [Read the analysis](https://33n.atlantaregional.com/housing/if-you-build-it-they-will-come)
+
+---
