@@ -1,9 +1,3 @@
-# Recent Atlanta Transportation News and Trends
-
-This is a compilation of articles, blog posts, and snippets highlighting Metro Atlanta transportation.
-
----
-
 ## 🚗 Commuting Patterns in the 20-County Region  
 An interactive dashboard exploring where people live and work across Metro Atlanta. Examine commuting inflows, outflows, and self-containment for each county.
 
