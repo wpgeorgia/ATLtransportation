@@ -56,5 +56,6 @@ AJC article highlighting young Atlantans who are embracing car-free lifestyles.
 
 ## 🚲 ARC Pedal Pushers
 Profiles of ARC employees who bike-commute to work. Includes biking statistics from April 2025 during the "Million Air Challenge".
+
 🔗 [Read the full article →](https://atlantaregional.org/news/transportation-mobility/arc-pedal-pushers/)
 
