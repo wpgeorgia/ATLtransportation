@@ -26,8 +26,6 @@ An interactive Tableau visualization showing traffic volumes and congestion metr
 
 ---
 
----
-
 ## 🕒 Time Trends in Workplace & Work Access  
 An article exploring how remote work and commuting have evolved across the Atlanta metro since 2019.
 
