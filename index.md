@@ -52,7 +52,6 @@ AJC article highlighting young Atlantans who are embracing car-free lifestyles.
 
 🔗 [Read the full article →](https://www.ajc.com/news/young-and-car-free-social-sharing-of-alternatives-to-atlanta-gridlock/ZKQNEPFCLVD6PJBP3CZ564IWMY/)
 
-
 ---
 
 ## 🚲 ARC Pedal Pushers
