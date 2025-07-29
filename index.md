@@ -47,11 +47,13 @@ An article exploring how remote work and commuting have evolved across the Atlan
 ---
 
 ## 🚫🚗 Young and Car-Free in Atlanta
-[Read the full article →](https://www.ajc.com/news/young-and-car-free-social-sharing-of-alternatives-to-atlanta-gridlock/ZKQNEPFCLVD6PJBP3CZ564IWMY/)
 AJC article highlighting young Atlantans who are embracing car-free lifestyles.
+🔗 [Read the full article →](https://www.ajc.com/news/young-and-car-free-social-sharing-of-alternatives-to-atlanta-gridlock/ZKQNEPFCLVD6PJBP3CZ564IWMY/)
+
 
 ---
 
 ## 🚲 ARC Pedal Pushers
-[Read the full article →](https://atlantaregional.org/news/transportation-mobility/arc-pedal-pushers/)
 Profiles of ARC employees who bike-commute to work. Includes biking statistics from April 2025 during the "Million Air Challenge".
+🔗 [Read the full article →](https://atlantaregional.org/news/transportation-mobility/arc-pedal-pushers/)
+
