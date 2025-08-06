@@ -1,4 +1,4 @@
-## 🚗 The Limits of Sprawl
+## 🛣️ The Limits of Sprawl
 Paul Krugman references this WSJ [article](https://www.wsj.com/economy/atlanta-population-growth-ending-32aa642c?mod=hp_lead_pos8) and argues that the lack of dense housing and traffic are finally reining in Atlanta growth.
 
 🔗 [Read the Substack post]([https://paulkrugman.substack.com/p/the-limits-of-sprawl])
